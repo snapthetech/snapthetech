@@ -13,7 +13,7 @@
 &nbsp; <a href="mailto: snapthetechqueries@gmail.com"><img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
 
-![](https://visitor-badge.glitch.me/badge?page_id=snapthetech) &nbsp; &nbsp;&nbsp;![](https://img.shields.io/github/followers/saketh33.svg?style=social&label=Follow)
+![](https://visitor-badge.glitch.me/badge?page_id=snapthetech) &nbsp; &nbsp;&nbsp;![](https://img.shields.io/github/followers/snapthetech.svg?style=social&label=Follow)
 
 <!---
 snapthetech/snapthetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
