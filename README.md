@@ -9,8 +9,8 @@
 - 💞️ I’m looking to collaborate on Frontend Developemnt,Backend Development,Data science and Live mentorship
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/company/tech-snap/"><img align="center" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
-&nbsp; <a href="https://www.linkedin.com/company/tech-snap/"><img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a> 
-&nbsp; <a href="https://www.linkedin.com/company/tech-snap/"><img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /></a>
+&nbsp; <a href="https://www.instagram.com/techsnapofficial/"><img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a> 
+&nbsp; <a href="mailto: snapthetechqueries@gmail.com"><img align="center" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
 
 <!---
