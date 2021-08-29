@@ -1,4 +1,4 @@
-<img align="center" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" >
+
 - 👋 Hi, I’m Techsnap
 - 👀 I’m interested in Teaching People
 - 🌱 I’m currently learning Young Peoples Mind
