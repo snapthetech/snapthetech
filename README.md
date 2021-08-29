@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hey I'm Techsnap.</h2>
-<div id="over" style="position:absolute; width:100%; height:100%">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="400" height="300">
-</div>
+<p align="center">
+   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="400" height="300">
+</p>
 
 - 👋 Hi, I’m Techsnap
 - 👀 I’m interested in Teaching People
