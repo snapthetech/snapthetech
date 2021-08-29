@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey I'm Techsnap.</h2>
-<img align="center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="400" height="300">
+<center><img align="center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="400" height="300"></center>
 
 - 👋 Hi, I’m Techsnap
 - 👀 I’m interested in Teaching People
