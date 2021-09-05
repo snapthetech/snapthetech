@@ -5,7 +5,7 @@
 
 ### Hello World 🤔
 - 👀 I’m interested in Teaching People
-- 🌱 I’m currently learning Young Peoples Mind
+- 🌱 I’m currently learning How to Teach people in Easy Way
 - 💞️ I’m looking to collaborate on Frontend Developemnt,Backend Development,Data science and Live mentorship
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/company/tech-snap/"><img align="center" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> 
